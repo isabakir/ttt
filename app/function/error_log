@@ -1,0 +1,9 @@
+[15-Oct-2020 16:00:04 UTC] PHP Warning:  include(/home/mar10dselimicom/public_html/marsel/app/class/class.category.php): failed to open stream: No such file or directory in /home/mar10dselimicom/public_html/app/function/addCategory.php on line 2
+[15-Oct-2020 16:00:04 UTC] PHP Warning:  include(/home/mar10dselimicom/public_html/marsel/app/class/class.category.php): failed to open stream: No such file or directory in /home/mar10dselimicom/public_html/app/function/addCategory.php on line 2
+[15-Oct-2020 16:00:04 UTC] PHP Warning:  include(): Failed opening '/home/mar10dselimicom/public_html/marsel/app/class/class.category.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mar10dselimicom/public_html/app/function/addCategory.php on line 2
+[15-Oct-2020 16:00:04 UTC] PHP Fatal error:  Class 'Category' not found in /home/mar10dselimicom/public_html/app/function/addCategory.php on line 3
+[15-Oct-2020 16:24:00 UTC] PHP Warning:  copy(): Filename cannot be empty in /home/mar10dselimicom/public_html/app/class/class.category.php on line 96
+[15-Oct-2020 16:24:00 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mar10dselimicom/public_html/app/class/class.category.php on line 78
+[15-Oct-2020 16:25:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/mar10dselimicom/public_html/app/class/class.category.php on line 78
+[18-Oct-2020 20:47:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mar10dselimicom/public_html/app/function/addProduct.php on line 16
+[18-Oct-2020 20:49:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/mar10dselimicom/public_html/app/function/addProduct.php on line 16

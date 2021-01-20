@@ -1,0 +1,8 @@
+[16-Oct-2020 01:58:53 UTC] PHP Fatal error:  Call to a member function getMain() on null in /home/mar10dselimicom/public_html/components/header.php on line 174
+[17-Oct-2020 13:08:28 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
+[17-Oct-2020 13:20:44 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
+[17-Oct-2020 18:31:24 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
+[17-Oct-2020 19:23:30 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
+[18-Oct-2020 16:35:55 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
+[18-Oct-2020 19:58:51 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
+[18-Oct-2020 21:14:54 UTC] PHP Fatal error:  Call to a member function returnSession() on null in /home/mar10dselimicom/public_html/components/minicart.php on line 2
